@@ -4,3 +4,47 @@ Work flow transparency
 collaborative to-do list
 small manufacturing assistant
 
+it has to be appliable to many manufacturers
+
+Lets start with QC!
+
+keep track of quality on a part.
+
+give quick feedback to the vendors.
+
+also a portal where vendors can check and leave feedback.
+
+should it be part focused?
+should it be product focused?
+should it be process focused?
+
+what is most important?
+
+
+1. WO gets created
+2. WO is printed out
+3. WO get built
+
+1. Product is
+
+Problem: we have to build 50 TLC's
+Solution: 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
