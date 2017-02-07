@@ -28,7 +28,6 @@ what is most important?
 1. Product is
 
 Problem: we have to build 50 TLC's
-Solution: 
 
 
 
